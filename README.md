@@ -1,7 +1,17 @@
 ### Hi there 👋
 
+<br><h3> 💻 Experiences </h3>
+- Yonsei University (18.03 - 24.02)
+- SSAFY 11기
+
+<br><h3> 🛠️ Skills </h3>
+
+<br><h3> 📝  Problem Solving </h3>
+
+![gruns0989's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=gruns0989)
+
 <!--
-**H1gru/H1gru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**pan9pan9/pan9pan9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
